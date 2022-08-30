@@ -1,2 +1,0 @@
-To check on rebase and merge commands
-
